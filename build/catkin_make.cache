@@ -1,0 +1,2 @@
+alpha_pkg
+-DCATKIN_DEVEL_PREFIX=/home/turtlebot/alpha_ws/devel -DCMAKE_INSTALL_PREFIX=/home/turtlebot/alpha_ws/install -G Unix Makefiles

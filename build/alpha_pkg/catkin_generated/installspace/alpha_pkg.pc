@@ -1,0 +1,8 @@
+prefix=/home/turtlebot/alpha_ws/install
+
+Name: alpha_pkg
+Description: Description of alpha_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/turtlebot/alpha_ws/install/lib 
+Requires: 
